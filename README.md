@@ -26,6 +26,7 @@ conda activate demo
 
 ## 下载 InternLM2-Chat-1.8B 模型
 
+按路径创建文件夹，进入对应文件目录
 <div align="center">
 <image src="Note2_picture4.png"width="450"height="100">
 </div>
