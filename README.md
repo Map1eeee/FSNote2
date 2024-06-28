@@ -1,7 +1,7 @@
 # FSNote2
 ## 创建开发机
 <div align="center">
-<image src="Note2_picture1.png"width="450"height="300">
+<image src="Note2_picture1.png"width="450"height="200">
 </div>
   
 ## 环境配置
@@ -46,4 +46,13 @@ conda activate demo
 
 <div align="center">
 <image src="Note2_picture7.png"width="550"height="700">
+</div>
+输入命令，执行Demo程序：
+<br> conda activate demo
+<br> python /root/demo/cli_demo.py
+<br> 等待模型加载完成，键入内容示例
+<br> 请创作一个300字小故事
+<br> 得到输出：
+<div align="center">
+<image src="Note2_picture8.png"width="650"height="250">
 </div>
