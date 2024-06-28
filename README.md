@@ -6,7 +6,7 @@
   
 ## 环境配置
 <div align="center">
-<image src="Note2_picture2.png"width="850"height="400">
+<image src="Note2_picture2.png"width="400"height="200">
 </div>
 <div align="center">
 <image src="Note2_picture3.png"width="550"height="600">
