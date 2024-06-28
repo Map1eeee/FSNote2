@@ -54,5 +54,5 @@ conda activate demo
 <br> 请创作一个300字小故事
 <br> 得到输出：
 <div align="center">
-<image src="Note2_picture8.png"width="650"height="250">
+<image src="Note2_picture8.png"width="650"height="150">
 </div>
