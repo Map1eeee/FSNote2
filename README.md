@@ -6,7 +6,7 @@
   
 ## 环境配置
 <div align="center">
-<image src="Note2_picture2.png"width="400"height="200">
+<image src="Note2_picture2.png"width="400"height="125">
 </div>
 <div align="center">
 <image src="Note2_picture3.png"width="550"height="600">
@@ -39,4 +39,11 @@ conda activate demo
 执行命令，下载模型参数文件：
 <div align="center">
 <image src="Note2_picture6.png"width="550"height="300">
+</div>
+
+## 运行cli_demo
+双击打开/root/demo/cli_demo.py 文件，复制以下代码：
+
+<div align="center">
+<image src="Note2_picture7.png"width="550"height="700">
 </div>
