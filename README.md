@@ -6,10 +6,10 @@
   
 ## 环境配置
 <div align="center">
-<image src="Note2_picture2.png"width="750"height="400">
+<image src="Note2_picture2.png"width="850"height="400">
 </div>
 <div align="center">
-<image src="Note2_picture3.png"width="550"height="400">
+<image src="Note2_picture3.png"width="550"height="600">
 </div>
 
 ## 进入新环境，完成环境包安装
