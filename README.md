@@ -24,3 +24,8 @@ conda activate demo
 <br> pip install modelscope==1.9.5
 <br> pip install sentencepiece==0.1.99
 
+## 下载 InternLM2-Chat-1.8B 模型
+
+<div align="center">
+<image src="Note2_picture2.png"width="850"height="400">
+</div>
