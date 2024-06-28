@@ -26,33 +26,34 @@ conda activate demo
 
 ## 下载 InternLM2-Chat-1.8B 模型
 
-按路径创建文件夹，进入对应文件目录
+#### 按路径创建文件夹，进入对应文件目录
 <div align="center">
 <image src="Note2_picture4.png"width="450"height="100">
 </div>
 
-打开 /root/demo/download_mini.py 文件，copy以下代码： 
+#### 打开 /root/demo/download_mini.py 文件，copy以下代码： 
 <div align="center">
 <image src="Note2_picture5.png"width="550"height="300">
 </div>
 
-执行命令，下载模型参数文件：
+#### 执行命令，下载模型参数文件：
 <div align="center">
 <image src="Note2_picture6.png"width="550"height="300">
 </div>
 
 ## 运行cli_demo
-双击打开/root/demo/cli_demo.py 文件，复制以下代码：
+#### 双击打开/root/demo/cli_demo.py 文件，复制以下代码：
 
 <div align="center">
 <image src="Note2_picture7.png"width="550"height="700">
 </div>
-输入命令，执行Demo程序：
+  
+####  输入命令，执行Demo程序：
 <br> conda activate demo
 <br> python /root/demo/cli_demo.py
-<br> 等待模型加载完成，键入内容示例
+#### 等待模型加载完成，键入内容示例
 <br> 请创作一个300字小故事
-<br> 得到输出：
+#### 得到输出：
 <div align="center">
 <image src="Note2_picture8.png"width="650"height="150">
 </div>
