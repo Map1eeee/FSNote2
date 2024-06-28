@@ -27,5 +27,5 @@ conda activate demo
 ## 下载 InternLM2-Chat-1.8B 模型
 
 <div align="center">
-<image src="Note2_picture4.png"width="550"height="400">
+<image src="Note2_picture4.png"width="450"height="200">
 </div>
