@@ -30,6 +30,13 @@ conda activate demo
 <div align="center">
 <image src="Note2_picture4.png"width="450"height="100">
 </div>
+
+打开 /root/demo/download_mini.py 文件，copy以下代码： 
 <div align="center">
 <image src="Note2_picture5.png"width="550"height="300">
+</div>
+
+执行命令，下载模型参数文件：
+<div align="center">
+<image src="Note2_picture6.png"width="550"height="300">
 </div>
